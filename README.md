@@ -1,0 +1,2 @@
+# Python
+quick revision notes
